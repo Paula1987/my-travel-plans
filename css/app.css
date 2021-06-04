@@ -15,5 +15,10 @@ body {
     height: 100%;
 }
 
+.container {
+    margin: auto;
+    padding: 1em;
+    width: 80%;
+}
 
 
